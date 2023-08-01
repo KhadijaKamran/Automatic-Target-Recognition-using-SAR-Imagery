@@ -52,7 +52,12 @@ The dataset has 8 targets with multiple angles and each angle contain around 49 
 
 ![image](https://github.com/KhadijaKamran/Automatic-Target-Recognition-using-SAR-Imagery/assets/46638501/d778cc6c-def7-40d1-acf7-ee0c939a1915)
 
+![image](https://github.com/KhadijaKamran/Automatic-Target-Recognition-using-SAR-Imagery/assets/46638501/6c711377-c4b5-4ddd-a3fe-5c56925b18a3)
+
+
 ![image](https://github.com/KhadijaKamran/Automatic-Target-Recognition-using-SAR-Imagery/assets/46638501/b9ac6748-33c7-462b-a7c6-e9335fe354ef)
+
+
 
 ### Model Architecture
 The model which has been finalized to be used for the classifications is YOLOv3. The 
