@@ -1,5 +1,11 @@
 # Automatic Target Recognition using SAR Imagery
 
+Follow the steps to run the code:
+1. Extract the terrasar.zip file.
+2. Open the terrasar/python folder open the terraSAR.py and terraSAR_vid.py files.
+3. Change the paths of 'yolo.names', 'yolov3_custom_train_final.weights' and 'yolov3_custom_train.cfg' in the terraSAR.py and terraSAR_vid.py files.
+4. Now run the terrasar.exe file in terrasar/obj folder. 
+
 ## Abstract
 One of the most important tasks in the image analysis is the classification as we use 
 the labels from the image data and transform it into real-world word information. In 
